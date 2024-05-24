@@ -1,0 +1,22 @@
+{
+  "vd_sel": 1,
+  "vd_pse": 0,
+  "px_blk": 0,
+  "px_gam": 0,
+  "px_gnx": 25,
+  "px_cnx": 18,
+  "px_res": 64,
+  "px_sze": 10,
+  "px_spd": 65,
+  "px_ftc": 11,
+  "px_blr": 0,
+  "sk_sze": 1,
+  "px_shp": 1,
+  "sk_opt": 1,
+  "px_pse": 0,
+  "px_pol": 0,
+  "px_wrp": true,
+  "px_shf": true,
+  "px_rst": 0,
+  "px_bkg": 0
+}
