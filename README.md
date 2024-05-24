@@ -1,4 +1,4 @@
-# [p5mirror](https://github.com/molab-itp/p5mirror)
+# [p5mirror-novo](https://github.com/jht9629-nyu/p5mirror-novo)
 
 ## How ? Quick start
 
@@ -22,7 +22,7 @@ bin/mirror.sh --user p5name
 
 ```
 # Edit this line for your editor.p5js user name
-bin/mirror.sh --user p5name
+bin/mirror.sh --user novo
 
 ```
 
